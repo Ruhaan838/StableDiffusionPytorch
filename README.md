@@ -11,5 +11,4 @@ This project implements a **Stable Diffusion** model, a powerful generative mode
 ![Stable diffusion](https://github.com/user-attachments/assets/c478eb3a-ebab-4133-bb97-c516ca054bf3)
 
 ## Special Thanks To 🙏
-- @hkproj: learn me how to make the transformer model
 - @Neuralearn: learn me deep learning
